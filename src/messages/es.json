@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Conjunto Monumental de la Alcazaba de Almería",
-    "description": "Guía completa del Conjunto Monumental de la Alcazaba de Almería. Descubra esta icónica fortaleza morisca en Andalucía, España, incluyendo ubicación e información para visitantes."
+    "title": "Acantilados di Dingli (Dingli Cliffs) – Mdina, Malta",
+    "description": "Guía de viaje completa a los Acantilados de Dingli en Malta. Descubra esta atracción natural, incluyendo ubicación, vistas, acceso e información para visitantes."
   },
   "header": {
     "home": "Inicio",
@@ -11,197 +11,173 @@
     "backToHome": "Volver al Inicio"
   },
   "hero": {
-    "title": "Alcazaba de Almería",
-    "subtitle": "Monumento · Almería",
-    "rating": "4.6",
-    "reviewCount": "15,710 opiniones",
-    "type": "Castillo",
+    "title": "Acantilados de Dingli",
+    "subtitle": "Atracción Natural · Malta",
+    "rating": "4.5",
+    "reviewCount": "9,185 opiniones",
+    "type": "Acantilados Naturales",
     "openMaps": "Ver en Google Maps",
     "mapsLink": "https://maps.app.goo.gl/7kurr3qMaSgWhNA59"
   },
   "intro": {
-    "title": "Descubre la Alcazaba",
-    "description": "El Conjunto Monumental de la Alcazaba de Almería es una de las fortalezas moriscas más grandes que se conservan en España. Ubicado en Almería, Andalucía, este magnífico complejo monumental cuenta con una rica historia y domina la ciudad y el mar Mediterráneo, ofreciendo una experiencia histórica y cultural inmersiva.",
+    "title": "Descubre los Acantilados de Dingli",
+    "description": "Los Acantilados de Dingli son el punto natural más alto de Malta, con una altitud de aproximadamente 253 metros sobre el nivel del mar. Situados en la parte occidental de la isla cerca del pueblo de Dingli, ofrecen vistas espectaculares del mar y la costa. Este lugar es famoso por su panorama, atardeceres y áreas naturales protegidas.",
     "visitGuide": {
       "title": "Consejos de Visita",
       "items": [
-        "Use zapatos cómodos para caminar, ya que la fortaleza tiene muchos caminos empedrados y escaleras.",
-        "Durante el verano, protéjase del sol y visite temprano en la mañana o al final de la tarde para evitar el calor.",
-        "La fortaleza ofrece excelentes vistas panorámicas de la ciudad de Almería y su puerto."
+        "La mejor época para visitar es la primavera o el otoño cuando el clima es agradable.",
+        "Durante la semana al atardecer, elija la hora antes de la puesta del sol para las mejores vistas.",
+        "Lleve zapatos cómodos para caminar por senderos naturales.",
+        "Lleve agua y protección solar, especialmente durante el verano."
       ]
     },
     "alsoKnownAs": {
       "title": "Destacados",
       "items": [
-        "Murallas y torres moriscas",
-        "Pintorescos jardines islámicos",
-        "Vistas panorámicas de la ciudad",
-        "Yacimiento arqueológico histórico"
+        "Punto más alto de Malta",
+        "Panorama marino impresionante",
+        "Área protegida Natura 2000",
+        "Lugar ideal para observar las estrellas"
       ]
     }
   },
   "knowledge": {
-    "title": "Sobre la Alcazaba",
+    "title": "Sobre los Acantilados de Dingli",
     "sections": [
       {
-        "id": "history",
-        "title": "Contexto Histórico",
-        "content": "La Alcazaba fue mandada construir en el siglo X por Abderramán III, el gobernante de Al-Ándalus. Inicialmente no solo fue una fortaleza militar, sino también el centro político y administrativo local, testigo de la prosperidad de Almería durante el dominio islámico."
+        "id": "geography",
+        "title": "Geografía y Elevación",
+        "content": "Los Acantilados de Dingli se encuentran en el suroeste de Malta, con una altitud de aproximadamente 253 metros sobre el nivel del mar. Son el punto más alto de la isla y ofrecen amplias vistas del Mar Mediterráneo."
       },
       {
-        "id": "layout",
-        "title": "Arquitectura y Distribución",
-        "content": "El castillo está dividido en tres recintos principales: el primer recinto fue una zona residencial civil y ahora es un hermoso jardín; el segundo recinto era el núcleo histórico, que contiene ruinas de palacios, baños y mezquitas; el tercer recinto es una fortaleza defensiva añadida por los Reyes Católicos después de la Reconquista."
+        "id": "ecology",
+        "title": "Ecología y Biodiversidad",
+        "content": "Los acantilados forman parte del área protegida Natura 2000. Albergan plantas autóctonas y especies de aves migratorias. Esta zona es importante para la biodiversidad de Malta."
       },
       {
-        "id": "culture",
+        "id": "cultural",
         "title": "Significado Cultural",
-        "content": "Como importante patrimonio cultural de Andalucía (BIC), la Alcazaba combina estilos arquitectónicos islámicos y cristianos. No solo es un símbolo de la zona, sino que también ha servido como lugar de rodaje de famosas películas y series de televisión (como Juego de Tronos)."
+        "content": "Los Acantilados de Dingli tienen un significado cultural en la mitología maltesa. Se dice que la isla de Filfla, situada frente a la costa, fue sostenida por gigantes en leyendas del pasado."
       },
       {
-        "id": "preservation",
-        "title": "Arqueología y Conservación",
-        "content": "Este es un patrimonio histórico protegido clave de la región andaluza. Sucesivas excavaciones arqueológicas continúan revelando los ricos estratos históricos de este complejo, y el gobierno lleva a cabo proyectos de restauración continuos para proteger estos preciosos monumentos."
+        "id": "protection",
+        "title": "Protección y Conservación",
+        "content": "Los acantilados son gestionados por la Autoridad de Medio Ambiente y Recursos (ERA) y están incluidos en el inventario nacional de bienes culturales (NICPMI). Están protegidos del desarrollo excesivo."
       }
     ]
   },
   "basicInfo": {
     "title": "Información Básica",
     "officialName": "Nombre Oficial",
-    "officialNameValue": "Conjunto Monumental de la Alcazaba de Almería",
+    "officialNameValue": "Acantilados de Dingli (Dingli Cliffs)",
     "type": "Tipo de Atracción",
-    "typeValue": "Castillo / Monumento Histórico",
+    "typeValue": "Acantilados Naturales / Alturas",
     "country": "País",
-    "countryValue": "España",
-    "city": "Ciudad",
-    "cityValue": "Almería",
+    "countryValue": "Malta",
+    "city": "Ciudad / Pueblo",
+    "cityValue": "Dingli (cerca de Mdina)",
     "googleRating": "Valoración de Google",
-    "googleRatingValue": "4.6 (15,710)",
+    "googleRatingValue": "4.5 (9,185)",
     "address": "Dirección",
-    "addressValue": "RGRH+6W, C. Almanzor, s/n, 04002 Almería, Spain",
+    "addressValue": "V92P+V45, Dingli, Malta",
     "plusCode": "Plus Code",
-    "plusCodeValue": "RGRH+6W Almería, Spain",
+    "plusCodeValue": "V92P+V45 Dingli, Malta",
     "phone": "Teléfono",
-    "phoneValue": "+34 950 80 10 08"
+    "phoneValue": "+356 2145 6060"
   },
   "hours": {
     "title": "Horario de Visita",
-    "park": "Acceso al Recinto",
-    "parkTime": "Abierto de martes a domingo (el horario varía según la temporada, cerrado los lunes)",
+    "park": "Acceso",
+    "parkTime": "Abierto las 24 horas, todo el año",
     "bestTime": "Mejor Época para Visitar",
-    "bestTimeSpring": "Primavera: Clima agradable, jardines en flor",
-    "bestTimeSummer": "Verano: Más fresco por las mañanas y tardes, evite el calor del mediodía",
-    "bestTimeAutumn": "Otoño: Clima templado, perfecto para paseos tranquilos",
-    "bestTimeWinter": "Invierno: Menos turistas, apreciación tranquila de los monumentos",
-    "tip": "Tenga en cuenta que los horarios de apertura específicos pueden variar según la temporada y los días festivos. Se recomienda planificar su visita en consecuencia."
+    "bestTimeSpring": "Primavera: Clima agradable, plantas en flor",
+    "bestTimeSummer": "Verano: Más fresco por las mañanas y atardeceres, evite el calor del mediodía",
+    "bestTimeAutumn": "Otoño: Clima templado, ideal para caminar",
+    "bestTimeWinter": "Invierno: Menos turistas, vistas puras de la naturaleza",
+    "tip": "No hay tarifa de entrada. Se recomienda visitar durante la semana para observar las estrellas o los atardeceres."
   },
   "tickets": {
     "title": "Información de Entradas",
-    "park": "Visita al Recinto",
-    "parkPrice": "Gratis para ciudadanos de la UE, otros visitantes suelen pagar una tarifa nominal (alrededor de 1,5 EUR)",
+    "park": "Visita al Lugar",
+    "parkPrice": "Gratis para el público",
     "parking": "Aparcamiento",
-    "parkingPrice": "Aparcamiento público de pago disponible en las inmediaciones",
+    "parkingPrice": "Aparcamiento público gratuito disponible cerca",
     "guided": "Visitas Guiadas",
-    "guidedPrice": "Visitas guiadas de pago en profundidad disponibles en varios idiomas"
+    "guidedPrice": "Disponibles a través de operadores turísticos locales"
   },
   "transport": {
     "title": "Cómo Llegar",
-    "fromCenter": "Desde el Centro de Almería",
-    "fromCenterDesc": "La fortaleza se encuentra sobre el casco antiguo, a poca distancia a pie del centro de la ciudad, aunque implica una subida.",
-    "fromStation": "Desde la Estación de Tren/Autobús",
-    "fromStationDesc": "A unos 2 km de la Estación Intermodal de Almería, accesible en autobús municipal o taxi.",
+    "fromCenter": "Desde el Centro (Mdina/Rabat)",
+    "fromCenterDesc": "Distancia de unos 3 km desde Mdina. Se puede llegar en el autobús 201 o 202, o en coche privado.",
+    "fromStation": "Desde la Estación de Autobuses",
+    "fromStationDesc": "Línea 201 desde La Valeta/Blaquière o 202 desde Sliema/Rabat.",
     "fromAirport": "Desde el Aeropuerto",
-    "fromAirportDesc": "A unos 10 km del Aeropuerto de Almería, se recomienda tomar un taxi o autobús del aeropuerto hasta el centro de la ciudad y hacer transbordo.",
+    "fromAirportDesc": "Distancia de unos 12 km. Se recomienda tomar un taxi o un coche de alquiler hasta Dingli.",
     "publicTransport": "Transporte Público",
-    "publicTransportDesc": "Varias líneas de autobuses locales paran cerca de la fortaleza.",
+    "publicTransportDesc": "Las líneas 201 y 202 tienen paradas cerca del pueblo de Dingli.",
     "walking": "A Pie",
-    "walkingDesc": "Camine por las callejuelas históricas de la Medina para disfrutar de un paisaje único.",
+    "walkingDesc": "Camine desde el pueblo de Dingli hasta los acantilados en unos pocos minutos.",
     "driving": "En Coche",
-    "drivingDesc": "Las calles alrededor de la fortaleza son estrechas; se recomienda aparcar en parkings públicos de la ciudad y subir a pie."
+    "drivingDesc": "Aparcamiento disponible cerca de la zona de los acantilados."
   },
   "route": {
     "title": "Ruta Recomendada",
-    "overview": "Un viaje a través de los tres recintos y experimente la evolución de la historia.",
+    "overview": "Camine a lo largo de los acantilados y disfrute de las vistas naturales.",
     "steps": [
-      "Entre por la puerta principal y pasee por los hermosos jardines del primer recinto",
-      "Entre en el segundo recinto para explorar las ruinas del palacio y los aljibes islámicos",
-      "Suba al Muro de la Vela para disfrutar de una vista panorámica de la ciudad",
-      "Entre en el tercer recinto para ver la sólida fortaleza construida durante la época de los Reyes Católicos",
-      "Disfrute de la vista del puerto y del mar Mediterráneo desde el mirador de la muralla norte"
+      "Comience desde el aparcamiento cerca del centro del pueblo de Dingli",
+      "Camine por el sendero principal a lo largo de los acantilados",
+      "Llegue al punto con la mejor vista del Mar Mediterráneo",
+      "Explore el área de Maqluba (sumidero colapsado)",
+      "Concluya con un atardecer inolvidable"
     ]
   },
   "photoSpots": {
     "title": "Mejores Lugares para Fotos",
     "spots": [
       {
-        "title": "Jardines del Primer Recinto",
-        "description": "Un fondo perfecto con piscinas de estilo islámico y exuberante vegetación.",
-        "location": "Primer Recinto",
-        "image": "/gallery/conjunto-monumental-de-la-alcazaba-de-almeria (1).jpg"
+        "title": "Mirador Principal",
+        "description": "El lugar donde puedes tomar las fotos más clásicas de los acantilados y el mar.",
+        "location": "Centro principal",
+        "image": "/gallery/dingli-cliffs (1).jpg"
       },
       {
-        "title": "Mirador del Muro de la Vela",
-        "description": "Desde aquí, capture las icónicas paredes blancas de Almería y el azul del mar Mediterráneo.",
-        "location": "Entre el Segundo y Tercer Recinto",
-        "image": "/gallery/conjunto-monumental-de-la-alcazaba-de-almeria (2).jpg"
+        "title": "Punto de Atardecer de Dingli",
+        "description": "Lugar ideal para observar las estrellas y la tranquilidad de la naturaleza.",
+        "location": "Fuera del pueblo",
+        "image": "/gallery/dingli-cliffs (2).jpg"
       },
       {
-        "title": "Torre Principal del Tercer Recinto",
-        "description": "La magnífica torre de estilo cristiano muestra las espectaculares defensas militares.",
-        "location": "Tercer Recinto",
-        "image": "/gallery/conjunto-monumental-de-la-alcazaba-de-almeria (3).jpg"
+        "title": "Sumidero de Maqluba",
+        "description": "Fenómeno geológico único cerca de Dingli.",
+        "location": "Cerca de los Acantilados de Dingli",
+        "image": "/gallery/dingli-cliffs (3).jpg"
       },
       {
-        "title": "Ruinas de la Muralla Antigua",
-        "description": "Capture el peso de la historia y magníficos atardeceres a lo largo de las sinuosas murallas antiguas.",
-        "location": "Perímetro Exterior",
-        "image": "/gallery/conjunto-monumental-de-la-alcazaba-de-almeria (4).jpg"
-      }
-    ]
-  },
-  "hotels": {
-    "title": "Guía de Alojamiento",
-    "hotels": [
-      {
-        "name": "Casco Antiguo de Almería",
-        "desc": "Alojarse en el casco antiguo permite un fácil acceso a pie a la fortaleza, rodeado de auténticos bares de tapas.",
-        "price": "Recomendado"
-      },
-      {
-        "name": "Cerca del Paseo Marítimo",
-        "desc": "Si le encantan las vistas al mar y las playas, esta es una opción ideal, a un corto trayecto en coche de la fortaleza.",
-        "price": "Recomendado"
-      },
-      {
-        "name": "Zona Comercial del Centro",
-        "desc": "Ofrece modernas instalaciones hoteleras y transporte conveniente, perfecto para ir de compras y explorar la ciudad.",
-        "price": "Recomendado"
+        "title": "Panorama desde las Alturas",
+        "description": "Las laderas del acantilado y el mar azul en la distancia.",
+        "location": "Sendero del acantilado",
+        "image": "/gallery/dingli-cliffs (4).jpg"
       }
     ]
   },
   "gallery": {
     "title": "Galería de Fotos",
-    "subtitle": "Vistas Espectaculares de la Alcazaba",
+    "subtitle": "Las Vistas Más Altas de Malta",
     "captions": [
-      "Panorámica de la fortaleza",
-      "Jardines del primer recinto",
-      "Murallas moriscas",
-      "Torres antiguas",
-      "Piscinas islámicas",
-      "Vista general de la ciudad",
-      "Fortaleza del tercer recinto",
-      "Ruinas históricas",
-      "Resplandor del atardecer",
-      "Ruinas del palacio",
-      "Puertas antiguas",
-      "Paisaje del puerto",
-      "Muros de piedra moteados",
-      "Defensas sólidas",
-      "Caminos sinuosos",
-      "Vista del campanario",
-      "Vista del mar Mediterráneo",
-      "Iluminación nocturna",
-      "Patios tranquilos"
+      "Panorama de los acantilados",
+      "Mar Mediterráneo desde arriba",
+      "Sendero en zona natural",
+      "Sumidero de Maqluba",
+      "Costa occidental de Malta",
+      "Plantas autóctonas en los acantilados",
+      "Pueblo de Dingli",
+      "Vista de Filfla",
+      "Atardecer en los acantilados",
+      "Costa rocosa",
+      "Llanura cercana",
+      "Paredes de roca natural",
+      "Aves que viven en los acantilados",
+      "Noche en los Acantilados de Dingli"
     ],
     "viewAll": "Ver en Google Maps",
     "showAll": "Ver Todas las Fotos",
@@ -213,62 +189,63 @@
     "moreReviews": "Ver más opiniones en Google Maps",
     "items": [
       {
-        "name": "Carlos M.",
+        "name": "Juan C.",
         "rating": 5,
-        "date": "2026-04-12",
-        "text": "Un monumento histórico espectacular, muy bien conservado. Las vistas de Almería desde arriba son inmejorables."
+        "date": "2026-03-15",
+        "text": "¡Un lugar increíble! El punto más alto de Malta con vistas espectaculares. Recomiendo visitarlo al atardecer."
       },
       {
-        "name": "Laura G.",
+        "name": "María G.",
         "rating": 5,
-        "date": "2026-03-28",
-        "text": "Los jardines en el primer recinto son impresionantes; las fuentes y plantas son muy relajantes. ¡Vale la pena la visita!"
+        "date": "2026-02-20",
+        "text": "Fui con mis padres y fue excelente. Un lugar tranquilo y relajante, perfecto para una visita en familia."
       },
       {
-        "name": "David R.",
+        "name": "David P.",
         "rating": 4,
-        "date": "2026-05-01",
-        "text": "Profundo significado histórico. La subida es un poco agotadora, pero ver la fortaleza del tercer recinto y el mar hace que todo valga la pena."
+        "date": "2026-04-05",
+        "text": "Un lugar muy hermoso para caminar. Las vistas son magníficas. Solo tuve un poco de dificultad para encontrar aparcamiento durante el fin de semana."
       },
       {
-        "name": "Sarah W.",
+        "name": "Elena S.",
         "rating": 5,
-        "date": "2026-02-15",
-        "text": "Uno de los castillos moriscos más magníficos que he visto en Andalucía. No tan concurrido como Granada, lo que permite una gran experiencia."
+        "date": "2026-01-10",
+        "text": "Para una visita a Malta, esta es una de las principales atracciones naturales que no debe perderse. Los árboles y el mar son muy románticos."
       },
       {
-        "name": "Antonio V.",
+        "name": "Marcos A.",
         "rating": 5,
-        "date": "2025-10-22",
-        "text": "Muy recomendable para los amantes de la historia y la arquitectura. El hecho de que Juego de Tronos se filmara aquí también es un punto destacado divertido."
+        "date": "2025-12-18",
+        "text": "Estuve aquí para observar las estrellas y fue una experiencia única. Sin ruido de la ciudad, solo el cielo y el mar."
       },
       {
-        "name": "Elena P.",
+        "name": "Clara B.",
         "rating": 5,
-        "date": "2025-08-09",
-        "text": "Recuerde llevar agua si visita en verano. Las vistas son impresionantes y todo el complejo te hace sentir la prosperidad de hace mil años."
+        "date": "2025-11-22",
+        "text": "Lugar perfecto para un picnic de fin de semana. Compre comida cerca y disfrute de la vista."
       }
     ]
   },
   "mapSection": {
     "title": "Ubicación en el Mapa",
-    "subtitle": "C. Almanzor, s/n, 04002 Almería, Spain",
+    "subtitle": "V92P+V45, Dingli, Malta",
     "openMaps": "Ver en Google Maps"
   },
   "footer": {
-    "brandName": "Alcazaba de Almería",
-    "brandSubtitle": "Monumento Histórico · Almería",
+    "brandName": "Acantilados de Dingli",
+    "brandSubtitle": "Atracción Natural · Malta",
     "rights": "© 2026 Proyecto Independiente de Investigación Turística · Todos los Derechos Reservados.",
     "privacy": "Política de Privacidad",
     "terms": "Términos de Servicio",
     "cookies": "Configuración de Cookies",
-    "officialResourcesTitle": "Recursos e Información Relacionados",
+    "officialResourcesTitle": "Recursos e Información Oficial",
     "officialLinks": {
-      "spain": "Turespaña",
-      "andalucia": "Turismo y Deporte de Andalucía",
-      "almeriaProvince": "Turismo de la Provincia de Almería",
-      "almeriaCity": "Turismo de Almería",
-      "iaph": "Instituto Andaluz del Patrimonio Histórico"
+      "era": "Autoridad de Medio Ambiente y Recursos de Malta",
+      "visitmalta": "Autoridad de Turismo de Malta",
+      "dingli": "Consejo Local de Dingli",
+      "natura2000": "Red Natura 2000",
+      "nicpmi": "Inventario Cultural NICPMI",
+      "pa": "Autoridad de Planificación de Malta"
     },
     "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No estamos afiliados con el gobierno local ni con ninguna otra agencia oficial."
   },
@@ -277,15 +254,15 @@
     "lastUpdated": "Última actualización: Mayo 2026",
     "sections": [
       {
-        "title": "Recopilación de Información",
+        "heading": "Recopilación de Información",
         "content": "Cuando visita nuestro sitio web, podemos recopilar automáticamente información básica sobre su dispositivo, navegador y comportamiento de navegación para proporcionar una mejor experiencia de usuario. Esta información no contiene su identidad personal."
       },
       {
-        "title": "Uso de Cookies",
+        "heading": "Uso de Cookies",
         "content": "Utilizamos cookies para analizar el tráfico del sitio web y optimizar el contenido de la página. Puede gestionar sus preferencias en cualquier momento a través de la opción Configuración de Cookies en la parte inferior de nuestro sitio."
       },
       {
-        "title": "Seguridad y Protección de Datos",
+        "heading": "Seguridad y Protección de Datos",
         "content": "Nos comprometemos a proteger la seguridad de sus datos de privacidad y no venderemos, alquilaremos ni comercializaremos sus datos de navegación a organizaciones comerciales de terceros."
       }
     ]
@@ -295,16 +272,16 @@
     "lastUpdated": "Última actualización: Mayo 2026",
     "sections": [
       {
-        "title": "Contenido y Uso del Sitio Web",
-        "content": "Este sitio web proporciona información de viaje, transporte e historia sobre la Alcazaba de Almería. Todo el contenido es solo para referencia. Los horarios de apertura reales y la información de entradas para las atracciones pueden cambiar en cualquier momento; consulte los anuncios oficiales."
+        "heading": "Contenido del Sitio Web y Uso",
+        "content": "Este sitio web proporciona información sobre viajes, transporte e historia sobre los Acantilados de Dingli. Todo el contenido es solo para referencia. Los horarios de apertura reales y la información de las atracciones pueden cambiar en cualquier momento; consulte los anuncios oficiales."
       },
       {
-        "title": "Propiedad Intelectual",
-        "content": "El texto, las imágenes y los diseños de este sitio web están protegidos por derechos de autor. Sin permiso explícito por escrito, nadie puede utilizar el contenido del sitio web para fines comerciales."
+        "heading": "Propiedad Intelectual",
+        "content": "El texto, las imágenes y los diseños de este sitio web están protegidos por derechos de autor. Sin un permiso explícito por escrito, nadie puede utilizar el contenido del sitio web con fines comerciales."
       },
       {
-        "title": "Descargo de Responsabilidad",
-        "content": "Hacemos todo lo posible para garantizar la precisión y puntualidad de la información, pero no asumimos responsabilidad legal por retrasos en el viaje o pérdidas causadas directa o indirectamente por el uso de la información proporcionada en este sitio web."
+        "heading": "Descargo de Responsabilidad",
+        "content": "Nos esforzamos por garantizar la precisión y puntualidad de la información, pero no asumimos ninguna responsabilidad legal por retrasos en el viaje o pérdidas causadas directa o indirectamente por el uso de la información proporcionada en este sitio web."
       }
     ]
   },
@@ -314,7 +291,7 @@
     "essential": {
       "title": "Cookies Esenciales",
       "description": "Necesarias para la funcionalidad básica del sitio web y no se pueden desactivar.",
-      "badge": "Siempre activas"
+      "badge": "Siempre Activas"
     },
     "analytics": {
       "title": "Análisis",
@@ -322,13 +299,13 @@
     },
     "marketing": {
       "title": "Marketing",
-      "description": "Se utilizan para el seguimiento entre sitios y la entrega de anuncios personalizados."
+      "description": "Utilizadas para el seguimiento entre sitios y la entrega de anuncios personalizados."
     },
     "save": "Guardar Preferencias",
-    "saved": "¡Preferencias guardadas!"
+    "saved": "¡Preferencias Guardadas!"
   },
   "officialManagement": {
-    "title": "Sobre la Alcazaba",
-    "text": "El Conjunto Monumental de la Alcazaba de Almería es un monumento importante administrado directamente por la región de Andalucía, España. Este patrimonio cultural está estrictamente protegido y gestionado diariamente por la Junta de Andalucía y agencias locales de patrimonio histórico."
+    "title": "Sobre los Acantilados de Dingli",
+    "text": "Los Acantilados de Dingli son gestionados y protegidos por la Autoridad de Medio Ambiente y Recursos (ERA) de Malta. El área está catalogada como un sitio protegido en el catálogo nacional y en la lista Natura 2000."
   }
 }

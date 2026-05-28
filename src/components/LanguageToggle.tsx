@@ -9,6 +9,7 @@ const labels: Record<string, string> = {
   en: 'English',
   mt: 'Malti',
   it: 'Italiano',
+  es: 'Español',
 };
 
 export default function LanguageToggle() {

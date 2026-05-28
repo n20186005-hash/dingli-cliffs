@@ -252,5 +252,60 @@
   "officialManagement": {
     "title": "Informazioni sulle Dingli Cliffs",
     "text": "Le Dingli Cliffs sono gestite e protette dall'Autorità per l'Ambiente e le Risorse (ERA) di Malta. L'area è elencata come sito protetto nel catalogo nazionale e nella lista Natura 2000."
+  },
+  "privacy": {
+    "title": "Informativa sulla Privacy",
+    "lastUpdated": "Ultimo aggiornamento: Maggio 2026",
+    "sections": [
+      {
+        "heading": "Raccolta delle Informazioni",
+        "content": "Quando visiti il nostro sito web, potremmo raccogliere automaticamente informazioni di base sul tuo dispositivo, browser e comportamento di navigazione per fornire un'esperienza utente migliore. Queste informazioni non contengono la tua identità personale."
+      },
+      {
+        "heading": "Uso dei Cookie",
+        "content": "Utilizziamo i cookie per analizzare il traffico del sito web e ottimizzare il contenuto della pagina. Puoi gestire le tue preferenze in qualsiasi momento tramite l'opzione Impostazioni Cookie in fondo al nostro sito."
+      },
+      {
+        "heading": "Sicurezza e Protezione dei Dati",
+        "content": "Ci impegniamo a proteggere la sicurezza dei tuoi dati sulla privacy e non venderemo, affitteremo o scambieremo i tuoi dati di navigazione a organizzazioni commerciali di terze parti."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Termini di Servizio",
+    "lastUpdated": "Ultimo aggiornamento: Maggio 2026",
+    "sections": [
+      {
+        "heading": "Contenuto del Sito e Uso",
+        "content": "Questo sito web fornisce informazioni su viaggi, trasporti e storia relative alle Scogliere di Dingli. Tutti i contenuti sono solo a scopo di riferimento. Gli orari di apertura effettivi e le informazioni sulle attrazioni possono cambiare in qualsiasi momento; si prega di fare riferimento agli annunci ufficiali."
+      },
+      {
+        "heading": "Proprietà Intellettuale",
+        "content": "Testi, immagini e design su questo sito web sono protetti da copyright. Senza esplicito permesso scritto, nessuno può utilizzare il contenuto del sito web per scopi commerciali."
+      },
+      {
+        "heading": "Dichiarazione di Non Responsabilità",
+        "content": "Ci sforziamo di garantire l'accuratezza e la tempestività delle informazioni, ma non ci assumiamo alcuna responsabilità legale per ritardi di viaggio o perdite causati direttamente o indirettamente dall'uso delle informazioni fornite in questo sito web."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Impostazioni Cookie",
+    "description": "Gestisci le tue preferenze sui cookie.",
+    "essential": {
+      "title": "Cookie Essenziali",
+      "description": "Necessari per le funzionalità di base del sito web e non possono essere disabilitati.",
+      "badge": "Sempre Attivi"
+    },
+    "analytics": {
+      "title": "Analitici",
+      "description": "Ci aiutano a capire il comportamento dei visitatori e a migliorare il sito web."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Utilizzati per il tracciamento tra siti e la fornitura di annunci personalizzati."
+    },
+    "save": "Salva Preferenze",
+    "saved": "Preferenze Salvate!"
   }
 }

@@ -252,5 +252,60 @@
   "officialManagement": {
     "title": "About Dingli Cliffs",
     "text": "Dingli Cliffs are managed and protected by the Environment and Resources Authority (ERA) of Malta. The area is listed as a protected site in the national catalog and Natura 2000 list."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "Information Collection",
+        "content": "When you visit our website, we may automatically collect basic information about your device, browser, and browsing behavior to provide a better user experience. This information does not contain your personal identity."
+      },
+      {
+        "heading": "Use of Cookies",
+        "content": "We use cookies to analyze website traffic and optimize page content. You can manage your preferences at any time through the Cookie Settings option at the bottom of our site."
+      },
+      {
+        "heading": "Data Security and Protection",
+        "content": "We are committed to protecting the security of your privacy data and will not sell, rent, or trade your browsing data to third-party commercial organizations."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "Website Content and Use",
+        "content": "This website provides travel, transport, and historical information about Dingli Cliffs. All content is for reference only. Actual opening hours and attraction information may change at any time; please refer to official announcements."
+      },
+      {
+        "heading": "Intellectual Property",
+        "content": "The text, images, and designs on this website are protected by copyright. Without explicit written permission, no one may use the website content for commercial purposes."
+      },
+      {
+        "heading": "Disclaimer",
+        "content": "We strive to ensure the accuracy and timeliness of the information, but we do not assume legal responsibility for travel delays or losses caused directly or indirectly by using the information provided on this website."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Necessary for basic website functionality and cannot be disabled.",
+      "badge": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics",
+      "description": "Help us understand visitor behavior and improve the website."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Used for cross-site tracking and delivering personalized ads."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences Saved!"
   }
 }

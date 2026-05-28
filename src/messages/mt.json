@@ -252,5 +252,60 @@
   "officialManagement": {
     "title": "Dwar id-Dingli Cliffs",
     "text": "Id-Dingli Cliffs huma ġestiti u protetti mill-Awtorità għall-Ambjent u r-Riżorsi (ERA) ta' Malta. Iż-żona hija elenkata bħala sit protett fil-katalgu nazzjonali u fil-lista Natura 2000."
+  },
+  "privacy": {
+    "title": "Politika tal-Privatezza",
+    "lastUpdated": "L-aħħar aġġornament: Mejju 2026",
+    "sections": [
+      {
+        "heading": "Ġbir ta' Informazzjoni",
+        "content": "Meta żżur is-sit elettroniku tagħna, nistgħu niġbru awtomatikament informazzjoni bażika dwar it-tagħmir, il-browser, u l-imġiba tal-browsing tiegħek biex nipprovdu esperjenza tal-utent aħjar. Din l-informazzjoni ma fihiex l-identità personali tiegħek."
+      },
+      {
+        "heading": "Użu tal-Cookies",
+        "content": "Aħna nużaw il-cookies biex nanalizzaw it-traffiku tas-sit elettroniku u nottimizzaw il-kontenut tal-paġna. Tista' timmaniġġja l-preferenzi tiegħek fi kwalunkwe ħin permezz tal-għażla tal-Immaniġġjar tal-Cookies fil-qiegħ tas-sit tagħna."
+      },
+      {
+        "heading": "Sigurtà u Protezzjoni tad-Dejta",
+        "content": "Aħna impenjati li nipproteġu s-sigurtà tad-dejta privata tiegħek u mhux se nbiegħu, nikru, jew ninnegozjaw id-dejta tal-browsing tiegħek ma' organizzazzjonijiet kummerċjali ta' partijiet terzi."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Termini tas-Servizz",
+    "lastUpdated": "L-aħħar aġġornament: Mejju 2026",
+    "sections": [
+      {
+        "heading": "Kontenut u Użu tas-Sit Elettroniku",
+        "content": "Dan is-sit elettroniku jipprovdi informazzjoni dwar l-ivvjaġġar, it-trasport, u l-istorja dwar l-Irdumijiet ta' Dingli. Il-kontenut kollu huwa biss għal referenza. Il-ħinijiet tal-ftuħ attwali u l-informazzjoni dwar l-attrazzjoni jistgħu jinbidlu fi kwalunkwe ħin; jekk jogħġbok irreferi għall-avviżi uffiċjali."
+      },
+      {
+        "heading": "Proprjetà Intellettwali",
+        "content": "It-test, l-immaġini, u d-disinji f'dan is-sit elettroniku huma protetti mid-drittijiet tal-awtur. Mingħajr permess bil-miktub espliċitu, ħadd ma jista' juża l-kontenut tas-sit elettroniku għal skopijiet kummerċjali."
+      },
+      {
+        "heading": "Dikjarazzjoni ta' Ċaħda",
+        "content": "Aħna nistinkaw biex niżguraw l-eżattezza u l-puntwalità tal-informazzjoni, iżda aħna ma nassumu l-ebda responsabbiltà legali għal dewmien fl-ivvjaġġar jew telf ikkawżat direttament jew indirettament mill-użu tal-informazzjoni pprovduta fuq dan is-sit elettroniku."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Settings tal-Cookies",
+    "description": "Immaniġġja l-preferenzi tal-cookies tiegħek.",
+    "essential": {
+      "title": "Cookies Essenzjali",
+      "description": "Meħtieġa għall-funzjonalità bażika tas-sit elettroniku u ma jistgħux jiġu diżattivati.",
+      "badge": "Dejjem Attivi"
+    },
+    "analytics": {
+      "title": "Analitika",
+      "description": "Jgħinuna nifhmu l-imġiba tal-viżitaturi u ntejbu s-sit elettroniku."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Użati għat-traċċar bejn is-siti u biex jitwasslu reklami personalizzati."
+    },
+    "save": "Issejvja l-Preferenzi",
+    "saved": "Il-Preferenzi Ġew Issejvjati!"
   }
 }
