@@ -1,0 +1,155 @@
+你正在用（Next.js开发）
+为一个新景点【 Dingli Cliffs 】构建静态/Next.js 单页指南网站。
+页面只需要支持中文和英文双语言
+
+dingli-cliffs
+马耳他
+姆迪纳	Dingli Cliffs
+Dingli Cliffs
+4.5(9,185)
+景点
+
+V92P+V45, Dingli, Malta
++35621456060
+
+https://maps.app.goo.gl/7kurr3qMaSgWhNA59
+
+
+
+首屏背景图要引用以下
+C:\Users\Administrator\Downloads\马耳他\dingli-cliffs\public\gallery
+
+
+删除原先友情链接，新增以下友情链接
+
+马耳他环境与资源管理局
+https://era.org.mt/
+马耳他国家旅游局
+https://www.visitmalta.com/en/
+丁利市政府
+https://dinglilc.gov.mt/en/
+Natura 2000 网络与国家文化财产清单
+https://era.org.mt/topic/natura-2000/
+NICPMI 文化清单
+https://schmalta.mt/national-inventory-and-scheduling-page/ 
+马耳他国家规划局
+https://www.pa.org.mt/
+
+
+
+在Google地图上查看位置都跳转为 https://maps.app.goo.gl/7kurr3qMaSgWhNA59
+页面一共四个链接每一个都需要修改
+
+
+照片画廊
+精彩照片 显示照片不全目前只显示8张，需要有显示完整照片显示功能
+检查照片名称是否正确并修正
+
+
+删除 探索更多 板块
+
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/7kurr3qMaSgWhNA59
+
+照片画廊
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/7kurr3qMaSgWhNA59
+
+游客评价
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/7kurr3qMaSgWhNA59
+
+地图位置
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/7kurr3qMaSgWhNA59
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+新增
+马耳他语（Maltese）
+意大利语（Italian）
+
+
+生成一个文件忽略不需要上传的文件
+
+
+
+
+
+
+
+
+买域名推荐
+
+
+
+
+我们网站是
+检查下有没有错误
+
+
+
+马耳他
+
+姆迪纳	Dingli Cliffs
+
+Dingli Cliffs
+
+4.5(9,185)
+
+景点
+
+
+
+V92P+V45, Dingli, Malta
+
++35621456060
+
+
+
+https://maps.app.goo.gl/7kurr3qMaSgWhNA59  
+
+给我五个国家级、大区级、市级到专业遗产数据库的完整链条
+
+
+
+严格限制为国家及地方政府官方、官方官方旅游局的网站友情链接，确保全部具备纯正的官方政府背景： 
+
+
+
+
+
+
+
+
+1. 国家级机构：马耳他环境与资源管理局 (National Statutory Body)
+机构名称：Environment and Resources Authority (ERA)
+
+官方网站：https://era.org.mt/
+
+层级角色：马耳他中央政府下属的最高国家生态与自然遗产监管部门。丁利悬崖作为马耳他群岛的最高点（海拔约253米），其壮丽的海岸石灰岩地貌、独特的岩生植物群及鸟类栖息地，均由该局直接负责国家级的战略保护与生态环境监测。
+
+2. 国家/大区级旅游局：马耳他国家旅游局 (Official Tourism Board)
+机构名称：VisitMalta (由 Malta Tourism Authority 运营)
+
+官方网站：https://www.visitmalta.com/en/
+
+层级角色：承载马耳他国家及西部地理大区的文旅统筹与官方推广。该平台统一发布关于丁利悬崖的权威导览信息，包括日落观景指南、官方认可的生态徒步路线，并整合了周边史前车辙遗迹（Clapham Junction cart ruts）的展示。
+
+3. 市级地方政府：丁利市政府 (Municipal Government)
+机构名称：Dingli Local Council (Kunsill Lokali Ħad-Dingli)
+
+官方网站：https://dinglilc.gov.mt/en/
+
+层级角色：悬崖所在地的核心基层行政中枢。直接统筹悬崖周边的市政基础设施、交通导引标志、公共空间日常维护，并负责辖区内各类本地活动许可（Local Permits）的行政审批。
+
+4. 专业遗产数据库：Natura 2000 网络与国家文化财产清单 (Professional Heritage Databases)
+机构名称：ERA (自然) / Superintendence of Cultural Heritage (人文)
+
+官方网站：https://era.org.mt/topic/natura-2000/ (自然遗产名录) 与 https://schmalta.mt/national-inventory-and-scheduling-page/ (NICPMI 文化清单)
+
+层级角色：这是提供高精度、结构化底层元数据的权威法定库。在自然维度，丁利悬崖被官方划入 Natura 2000 欧洲特别保护区网络；在人文维度，悬崖边建于1646年的圣抹大拉教堂在此登记了专属法定编号。这些专业数据库提供的精确经纬度坐标、保护定级文件与多字段历史/生态属性，是构建与维护大型地标百科或旅游类内容数据库时进行准确分类和溯源的最佳基石。
+
+5. 空间规划与受保护区域数据库：马耳他国家规划局 (Spatial Planning Database)
+机构名称：Planning Authority (PA) Malta
+
+官方网站：https://www.pa.org.mt/
+
+层级角色：掌管国家级地理空间信息及“受保护区域”（Scheduled Areas）底图。丁利悬崖全域受极为严苛的自然与景观开发红线限制。任何涉及悬崖沿线的步道修缮、地貌测绘或观景台合规性评估的数据模型与工程图纸，都必须通过此政务系统内的专属空间数据库进行归档与审批管理。
