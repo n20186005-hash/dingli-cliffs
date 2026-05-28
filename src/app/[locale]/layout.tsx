@@ -15,12 +15,14 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://rosevalleyparkchisinau.com';
+  const baseUrl = 'https://dinglicliffsmalta.com';
 
   const zhUrl = `${baseUrl}/zh`;
   const enUrl = `${baseUrl}/en`;
-  const roUrl = `${baseUrl}/ro`;
-  const selfUrl = locale === 'zh' ? zhUrl : locale === 'en' ? enUrl : roUrl;
+  const mtUrl = `${baseUrl}/mt`;
+  const itUrl = `${baseUrl}/it`;
+  const esUrl = `${baseUrl}/es`;
+  const selfUrl = `${baseUrl}/${locale}`;
 
   return {
     metadataBase: new URL(baseUrl),
@@ -31,7 +33,9 @@ export async function generateMetadata({
       languages: {
         'zh': zhUrl,
         'en': enUrl,
-        'ro': roUrl,
+        'mt': mtUrl,
+        'it': itUrl,
+        'es': esUrl,
         'x-default': enUrl,
       },
     },
@@ -39,8 +43,8 @@ export async function generateMetadata({
       title: messages.meta.title,
       description: messages.meta.description,
       url: selfUrl,
-      siteName: "Rose Valley Park",
-      locale: locale === 'zh' ? 'zh_CN' : locale === 'en' ? 'en_US' : 'ro_RO',
+      siteName: "Dingli Cliffs",
+      locale: locale === 'zh' ? 'zh_CN' : locale === 'en' ? 'en_US' : locale === 'mt' ? 'mt_MT' : locale === 'it' ? 'it_IT' : 'es_ES',
       type: 'website',
     },
   };

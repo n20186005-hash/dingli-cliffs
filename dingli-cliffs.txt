@@ -16,6 +16,31 @@ https://maps.app.goo.gl/7kurr3qMaSgWhNA59
 
 
 
+表单项	填写内容	说明
+国家 / 地区 *	马耳他 / Malta	下拉框直接选择
+地址行 1*	Triq Panoramika, Dingli Cliffs	填写主路（Triq Panoramika）和地标名，保证投递识别
+地址行 2	（可选空着，或填 V92P+V45）	补充 Plus Code 或额外信息，非必填可留空
+城市 *	Dingli（丁利）	填写城镇名，官方名称为 Ħad-Dingli，使用 Dingli 即可
+省 / 自治区 / 直辖市 *	Dingli	马耳他无省级行政区，直接填城镇名 Dingli 即可
+邮政编码 *	DGL 1681	Dingli 区域的标准邮政编码，匹配该地址
+
+
+
+
+
+
+
+
+
+
+我们网站是
+dinglicliffsmalta.com
+检查一遍看下是否有错误
+
+
+
+
+
 首屏背景图要引用以下
 C:\Users\Administrator\Downloads\马耳他\dingli-cliffs\public\gallery
 
