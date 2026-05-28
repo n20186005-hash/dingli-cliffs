@@ -1,0 +1,256 @@
+{
+  "meta": {
+    "title": "丁利悬崖 (Dingli Cliffs) – 姆迪纳, 马耳他",
+    "description": "丁利悬崖 (Dingli Cliffs) 完整旅游指南。了解这个马耳他自然景观，包括位置、景色、交通和游览信息。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "丁利悬崖",
+    "subtitle": "自然景观 · 马耳他",
+    "rating": "4.5",
+    "reviewCount": "9,185 条评价",
+    "type": "天然悬崖",
+    "openMaps": "在Google地图上查看位置",
+    "mapsLink": "https://maps.app.goo.gl/7kurr3qMaSgWhNA59"
+  },
+  "intro": {
+    "title": "探索丁利悬崖",
+    "description": "丁利悬崖 (Dingli Cliffs) 是马耳他最高的自然点，海拔约253米。位于马耳他岛西部，靠近丁利村 (Dingli)，可以俯瞰壮丽的海景和海岸线。这里以其全景、日落和受保护的自然区域而闻名。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "最佳游览时间是春季或秋季，天气宜人。",
+        "如果是在工作日傍晚，建议在日落前抵达，景色最美。",
+        "穿舒适的鞋子在自然小径上行走。",
+        "夏季时记得带水和防晒用品。"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "亮点",
+      "items": [
+        "马耳他最高点",
+        "令人惊叹的海景全景",
+        "Natura 2000 保护区",
+        "观星的理想地点"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "关于丁利悬崖",
+    "sections": [
+      {
+        "id": "geography",
+        "title": "地理与海拔",
+        "content": "丁利悬崖位于马耳他西南部，海拔约253米。它们是该岛的最高点，可以俯瞰地中海的广阔景色。"
+      },
+      {
+        "id": "ecology",
+        "title": "生态与生物多样性",
+        "content": "悬崖是 Natura 2000 保护区的一部分。它们拥有本土植物和候鸟物种。该区域对马耳他的生物多样性非常重要。"
+      },
+      {
+        "id": "cultural",
+        "title": "文化意义",
+        "content": "丁利悬崖在马耳他神话中具有文化意义。传说过去海岸外的菲尔夫拉岛 (Filfla) 是由巨人守护的。"
+      },
+      {
+        "id": "protection",
+        "title": "保护与保育",
+        "content": "悬崖由马耳他环境与资源管理局 (ERA) 管理，并列入国家文化遗产清单 (NICPMI)。它们受到保护，避免过度开发。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "Dingli Cliffs (丁利悬崖)",
+    "type": "景点类型",
+    "typeValue": "天然悬崖 / 高地",
+    "country": "国家",
+    "countryValue": "马耳他 (Malta)",
+    "city": "城市 / 村庄",
+    "cityValue": "丁利 (Dingli，靠近姆迪纳)",
+    "googleRating": "谷歌评分",
+    "googleRatingValue": "4.5 (9,185)",
+    "address": "地址",
+    "addressValue": "V92P+V45, Dingli, Malta",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "V92P+V45 Dingli, Malta",
+    "phone": "联系电话",
+    "phoneValue": "+356 2145 6060"
+  },
+  "hours": {
+    "title": "开放时间",
+    "park": "进入",
+    "parkTime": "24小时开放，全年无休",
+    "bestTime": "最佳游览时间",
+    "bestTimeSpring": "春季：气候宜人，植物盛开",
+    "bestTimeSummer": "夏季：早晨和日落时较凉爽，避开正午高温",
+    "bestTimeAutumn": "秋季：天气温和，适合散步",
+    "bestTimeWinter": "冬季：游客较少，尽享自然美景",
+    "tip": "无需门票。建议在工作日前往，可以观星或欣赏日落。"
+  },
+  "tickets": {
+    "title": "门票信息",
+    "park": "景区参观",
+    "parkPrice": "对公众免费开放",
+    "parking": "停车",
+    "parkingPrice": "附近有免费公共停车场",
+    "guided": "导游服务",
+    "guidedPrice": "可通过当地旅游运营商安排"
+  },
+  "transport": {
+    "title": "交通指南",
+    "fromCenter": "从市中心（姆迪纳/拉巴特）",
+    "fromCenterDesc": "距离姆迪纳约3公里。可乘坐201或202路公交车，或自驾前往。",
+    "fromStation": "从公交车站",
+    "fromStationDesc": "201路从瓦莱塔/布拉基耶 (Valletta/Blaquière) 出发，或202路从斯利马/拉巴特 (Sliema/Rabat) 出发。",
+    "fromAirport": "从机场",
+    "fromAirportDesc": "距离约12公里。建议乘坐出租车或租车前往丁利。",
+    "publicTransport": "公共交通",
+    "publicTransportDesc": "201和202路公交车在丁利村附近停靠。",
+    "walking": "步行",
+    "walkingDesc": "从丁利村步行几分钟即可到达悬崖。",
+    "driving": "自驾",
+    "drivingDesc": "悬崖区域附近有停车场。"
+  },
+  "route": {
+    "title": "推荐游览路线",
+    "overview": "沿着悬崖漫步，享受自然美景。",
+    "steps": [
+      "从丁利村中心的停车场出发",
+      "沿着悬崖边的主要步道行走",
+      "到达可以俯瞰地中海的最佳观景点",
+      "探索马卢巴 (Maqluba) 地区（坍塌的落水洞）",
+      "在难忘的日落中结束旅程"
+    ]
+  },
+  "photoSpots": {
+    "title": "绝佳拍照点",
+    "spots": [
+      {
+        "title": "主观景台",
+        "description": "可以在这里拍摄最经典的悬崖和海洋照片。",
+        "location": "主中心区",
+        "image": "/gallery/dingli-cliffs (1).jpg"
+      },
+      {
+        "title": "丁利日落点",
+        "description": "观星和享受大自然宁静的理想地点。",
+        "location": "村外",
+        "image": "/gallery/dingli-cliffs (2).jpg"
+      },
+      {
+        "title": "马卢巴落水洞",
+        "description": "丁利附近的独特地质现象。",
+        "location": "靠近丁利悬崖",
+        "image": "/gallery/dingli-cliffs (3).jpg"
+      },
+      {
+        "title": "高处全景",
+        "description": "悬崖斜坡和远处的蔚蓝大海。",
+        "location": "悬崖步道",
+        "image": "/gallery/dingli-cliffs (4).jpg"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "照片画廊",
+    "subtitle": "马耳他的至高点美景",
+    "captions": [
+      "悬崖全景",
+      "从高处俯瞰地中海",
+      "自然区域的步道",
+      "马卢巴落水洞",
+      "马耳他西海岸",
+      "悬崖上的本土植物",
+      "丁利村",
+      "菲尔夫拉岛景观",
+      "悬崖上的日落",
+      "岩石海岸",
+      "附近的平原",
+      "天然岩壁",
+      "栖息在悬崖上的鸟类",
+      "丁利悬崖的夜晚"
+    ],
+    "viewAll": "在Google地图上查看位置",
+    "showAll": "显示完整照片",
+    "showLess": "收起照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可通过Google地图查看。",
+    "moreReviews": "在Google地图上查看更多评价",
+    "items": [
+      {
+        "name": "陈先生",
+        "rating": 5,
+        "date": "2026-03-15",
+        "text": "令人难以置信的地方！马耳他的至高点，景色壮观。建议日落时来参观。"
+      },
+      {
+        "name": "玛丽 G.",
+        "rating": 5,
+        "date": "2026-02-20",
+        "text": "和父母一起来这里，体验非常棒。安静又放松，非常适合家庭出游。"
+      },
+      {
+        "name": "大卫 P.",
+        "rating": 4,
+        "date": "2026-04-05",
+        "text": "非常适合散步的美丽地方。景色超棒。我只是在周末时找停车位有点困难。"
+      },
+      {
+        "name": "海伦 S.",
+        "rating": 5,
+        "date": "2026-01-10",
+        "text": "游览马耳他时，这是你不应该错过的顶级自然景点之一。树木和大海非常浪漫。"
+      },
+      {
+        "name": "马克 A.",
+        "rating": 5,
+        "date": "2025-12-18",
+        "text": "来这里观星，那是一次独特的体验。没有城市的噪音，只有天空和大海。"
+      },
+      {
+        "name": "克莱尔 B.",
+        "rating": 5,
+        "date": "2025-11-22",
+        "text": "周末野餐的完美地点。在附近买些食物，享受美景吧。"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "地图位置",
+    "subtitle": "V92P+V45, Dingli, Malta",
+    "openMaps": "在Google地图上查看位置"
+  },
+  "footer": {
+    "brandName": "丁利悬崖",
+    "brandSubtitle": "自然景观 · 马耳他",
+    "rights": "© 2026 独立旅游研究项目 · 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "官方资源与资讯",
+    "officialLinks": {
+      "era": "马耳他环境与资源管理局",
+      "visitmalta": "马耳他国家旅游局",
+      "dingli": "丁利市政府",
+      "natura2000": "Natura 2000 网络与国家文化财产清单",
+      "nicpmi": "NICPMI 文化清单",
+      "pa": "马耳他国家规划局"
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+  },
+  "officialManagement": {
+    "title": "关于丁利悬崖",
+    "text": "丁利悬崖由马耳他环境与资源管理局 (ERA) 管理和保护。该区域被列为国家名录和 Natura 2000 列表中的保护区。"
+  }
+}

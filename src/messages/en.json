@@ -1,0 +1,256 @@
+{
+  "meta": {
+    "title": "Dingli Cliffs – Mdina, Malta",
+    "description": "Complete travel guide to Dingli Cliffs in Malta. Learn about this natural attraction, including location, views, access, and visitor information."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Dingli Cliffs",
+    "subtitle": "Natural Attraction · Malta",
+    "rating": "4.5",
+    "reviewCount": "9,185 reviews",
+    "type": "Natural Cliffs",
+    "openMaps": "View on Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/7kurr3qMaSgWhNA59"
+  },
+  "intro": {
+    "title": "Discover Dingli Cliffs",
+    "description": "Dingli Cliffs are the highest natural point in Malta, with an altitude of approximately 253 meters above sea level. Located on the western part of the island near the village of Dingli, they offer spectacular views of the sea and coastline. This location is famous for its panorama, sunsets, and protected natural areas.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "The best time to visit is spring or autumn when the weather is pleasant.",
+        "During the week at sunset, choose the time before sunset for the best views.",
+        "Wear comfortable shoes for walking on natural paths.",
+        "Bring water and sun protection especially during summer."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Highest point in Malta",
+        "Breathtaking sea panorama",
+        "Natura 2000 protected area",
+        "Ideal for stargazing"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "About Dingli Cliffs",
+    "sections": [
+      {
+        "id": "geography",
+        "title": "Geography & Elevation",
+        "content": "Dingli Cliffs are located in southwest Malta, with an altitude of approximately 253 meters above sea level. They are the highest point of the island and offer vast views of the Mediterranean Sea."
+      },
+      {
+        "id": "ecology",
+        "title": "Ecology & Biodiversity",
+        "content": "The cliffs are part of the Natura 2000 protected area. They host indigenous plants and migratory bird species. This area is important for Malta's biodiversity."
+      },
+      {
+        "id": "cultural",
+        "title": "Cultural Significance",
+        "content": "Dingli Cliffs have cultural significance in Maltese mythology. It is said that the island of Filfla, located off the coast, was held by giants in legends of the past."
+      },
+      {
+        "id": "protection",
+        "title": "Protection & Conservation",
+        "content": "The cliffs are managed by the Environment and Resources Authority (ERA) and are listed in the national cultural property inventory (NICPMI). They are protected from excessive development."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Dingli Cliffs",
+    "type": "Attraction Type",
+    "typeValue": "Natural Cliffs / Heights",
+    "country": "Country",
+    "countryValue": "Malta",
+    "city": "City / Village",
+    "cityValue": "Dingli (near Mdina)",
+    "googleRating": "Google Rating",
+    "googleRatingValue": "4.5 (9,185)",
+    "address": "Address",
+    "addressValue": "V92P+V45, Dingli, Malta",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "V92P+V45 Dingli, Malta",
+    "phone": "Phone",
+    "phoneValue": "+356 2145 6060"
+  },
+  "hours": {
+    "title": "Visiting Hours",
+    "park": "Access",
+    "parkTime": "Open 24 hours, all year round",
+    "bestTime": "Best Time to Visit",
+    "bestTimeSpring": "Spring: Pleasant weather, plants in bloom",
+    "bestTimeSummer": "Summer: Cooler at morning and sunset, avoid midday heat",
+    "bestTimeAutumn": "Autumn: Mild weather, ideal for walking",
+    "bestTimeWinter": "Winter: Fewer tourists, pure nature views",
+    "tip": "There is no entrance fee. It is recommended to visit during the week for stargazing or sunsets."
+  },
+  "tickets": {
+    "title": "Admission Information",
+    "park": "Site Visit",
+    "parkPrice": "Free for the public",
+    "parking": "Parking",
+    "parkingPrice": "Free public parking available nearby",
+    "guided": "Guided Tours",
+    "guidedPrice": "Available through local tourism operators"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "fromCenter": "From Center (Mdina/Rabat)",
+    "fromCenterDesc": "Distance of about 3km from Mdina. You can reach by bus 201 or 202, or by private car.",
+    "fromStation": "From Bus Station",
+    "fromStationDesc": "Line 201 from Valletta/Blaquière or 202 from Sliema/Rabat.",
+    "fromAirport": "From Airport",
+    "fromAirportDesc": "Distance of about 12km. It is recommended to take a taxi or rental car to Dingli.",
+    "publicTransport": "Public Transport",
+    "publicTransportDesc": "Lines 201 and 202 stop near Dingli Village.",
+    "walking": "Walking",
+    "walkingDesc": "Walk from Dingli Village to the cliffs in a few minutes.",
+    "driving": "Driving",
+    "drivingDesc": "Parking available near the cliff area."
+  },
+  "route": {
+    "title": "Recommended Route",
+    "overview": "Walk along the cliffs and enjoy the natural views.",
+    "steps": [
+      "Start from the parking near Dingli Village center",
+      "Walk along the main path along the cliffs",
+      "Reach the point with the best view of the Mediterranean Sea",
+      "Explore the Maqluba area (collapsed sinkhole)",
+      "Conclude with an unforgettable sunset"
+    ]
+  },
+  "photoSpots": {
+    "title": "Top Photo Spots",
+    "spots": [
+      {
+        "title": "Main Viewpoint",
+        "description": "The place where you can take the most classic photos of the cliffs and the sea.",
+        "location": "Main center",
+        "image": "/gallery/dingli-cliffs (1).jpg"
+      },
+      {
+        "title": "Dingli Sunset Point",
+        "description": "Ideal location for stargazing and nature quietness.",
+        "location": "Outside the village",
+        "image": "/gallery/dingli-cliffs (2).jpg"
+      },
+      {
+        "title": "Maqluba Sinkhole",
+        "description": "Unique geological phenomenon near Dingli.",
+        "location": "Near Dingli Cliffs",
+        "image": "/gallery/dingli-cliffs (3).jpg"
+      },
+      {
+        "title": "Panorama from Heights",
+        "description": "The cliff slopes and the blue sea in the distance.",
+        "location": "Cliff pathway",
+        "image": "/gallery/dingli-cliffs (4).jpg"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Malta's Highest Views",
+    "captions": [
+      "Cliffs panorama",
+      "Mediterranean Sea from above",
+      "Path in natural area",
+      "Maqluba sinkhole",
+      "Western coast of Malta",
+      "Indigenous plants on cliffs",
+      "Dingli village",
+      "View of Filfla",
+      "Sunset on cliffs",
+      "Rocky coast",
+      "Nearby plain",
+      "Natural rock walls",
+      "Birds living on cliffs",
+      "Night on Dingli Cliffs"
+    ],
+    "viewAll": "View on Google Maps",
+    "showAll": "View All Photos",
+    "showLess": "Show Less"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Reviews can be viewed via Google Maps.",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "John C.",
+        "rating": 5,
+        "date": "2026-03-15",
+        "text": "Incredible place! The highest point in Malta with spectacular views. I recommend visiting at sunset."
+      },
+      {
+        "name": "Mary G.",
+        "rating": 5,
+        "date": "2026-02-20",
+        "text": "Went with my parents and it was excellent. Calm and relaxing place, perfect for family visit."
+      },
+      {
+        "name": "David P.",
+        "rating": 4,
+        "date": "2026-04-05",
+        "text": "Very beautiful place for walking. The views are superb. I only had a bit of difficulty finding parking on the weekend."
+      },
+      {
+        "name": "Helen S.",
+        "rating": 5,
+        "date": "2026-01-10",
+        "text": "For a visit to Malta, this is one of the top natural attractions you shouldn't miss. The trees and sea are very romantic."
+      },
+      {
+        "name": "Mark A.",
+        "rating": 5,
+        "date": "2025-12-18",
+        "text": "Was here for stargazing and it was a unique experience. No city noise, only the sky and sea."
+      },
+      {
+        "name": "Claire B.",
+        "rating": 5,
+        "date": "2025-11-22",
+        "text": "Perfect place for a weekend picnic. Get food nearby and enjoy the view."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Map Location",
+    "subtitle": "V92P+V45, Dingli, Malta",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "brandName": "Dingli Cliffs",
+    "brandSubtitle": "Natural Attraction · Malta",
+    "rights": "© 2026 Independent Tourism Research Project · All Rights Reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official Resources & Information",
+    "officialLinks": {
+      "era": "Malta Environment & Resources Authority",
+      "visitmalta": "Malta Tourism Authority",
+      "dingli": "Dingli Local Council",
+      "natura2000": "Natura 2000 Network",
+      "nicpmi": "NICPMI Cultural Inventory",
+      "pa": "Planning Authority Malta"
+    },
+    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
+  },
+  "officialManagement": {
+    "title": "About Dingli Cliffs",
+    "text": "Dingli Cliffs are managed and protected by the Environment and Resources Authority (ERA) of Malta. The area is listed as a protected site in the national catalog and Natura 2000 list."
+  }
+}
